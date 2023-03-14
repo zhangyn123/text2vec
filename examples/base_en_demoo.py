@@ -6,7 +6,7 @@ This basic example loads a pre-trained model from the web and uses it to
 generate sentence embeddings for a given list of sentences.
 """
 
-import sys
+import sys.
 
 sys.path.append('..')
 from text2vec import SentenceModel, cos_sim, semantic_search, Similarity, EncoderType
